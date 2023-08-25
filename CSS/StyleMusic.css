@@ -1,0 +1,65 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+header {
+    background-image: url(../Imagenes/music-top.jpg);
+ }
+
+nav {
+    font-size: 13px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+
+    margin-left: 80px;
+}
+
+.Titulo {
+    font-family: 'Raleway', sans-serif;
+    font-size: 60px;
+    
+    margin-left: 60px;
+    margin-top: 60px;
+}
+
+.Album {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+
+    margin-left: 60px;
+}
+
+.Imagen {
+    margin-left: 60px;
+}
+
+.Canciones {
+    font-size: 15px;
+    list-style-type: decimal-leading-zero;
+
+    margin-left: 60px;
+}
+
+.Video1 {
+    margin-left: 60px;
+    margin-top: 30px;
+}
+
+.Video2 {
+    margin-left: 60px;
+    margin-top: 30px;
+}
+
+.Videotitulo {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.Creditos {
+    font-size: 13px;
+}
+
+
+

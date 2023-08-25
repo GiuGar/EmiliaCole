@@ -1,0 +1,33 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+}
+
+body {
+    background-image: url(../Imagenes/home.jpg);
+    background-size: 65%;
+    background-repeat: no-repeat;
+    background-position: center right;
+}
+
+nav {
+     margin-left: 110px;
+}
+
+.Nombre {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 25px;
+    letter-spacing: 3px;
+    
+    margin-left: 90px;
+    margin-top: 100px;
+}
+
+.Titulo {
+    font-family: 'Raleway', sans-serif;
+    background-color: rgba(255, 255, 255, .3);
+    font-size: 50px;
+
+    margin-left: 90px;
+    margin-top: 160px;
+}
