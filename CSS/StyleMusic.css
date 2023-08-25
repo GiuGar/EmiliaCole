@@ -15,6 +15,14 @@ nav {
     margin-left: 80px;
 }
 
+.Links {
+    color: black;
+}
+
+.Icono {
+    color: black;
+ }
+
 .Titulo {
     font-family: 'Raleway', sans-serif;
     font-size: 60px;
@@ -60,6 +68,3 @@ nav {
 .Creditos {
     font-size: 13px;
 }
-
-
-

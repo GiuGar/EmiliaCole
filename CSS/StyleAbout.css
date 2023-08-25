@@ -17,6 +17,14 @@ nav {
      margin-left: 80px;
 }
 
+.Links {
+    color: black;
+}
+
+.Icono {
+    color: black;
+ }
+
 .Titulo {
     font-family: 'Work Sans', sans-serif;
     font-size: 30px;
